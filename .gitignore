@@ -2,6 +2,8 @@
 /*XCTestManifests.swift
 /.build
 /Packages
-/*.xcodeproj
 /.swiftpm
 .*.sw?
+
+## User settings
+xcuserdata/
